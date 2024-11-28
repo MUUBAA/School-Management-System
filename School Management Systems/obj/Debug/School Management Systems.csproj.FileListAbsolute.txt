@@ -1,0 +1,16 @@
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\bin\Debug\School Management Systems.exe.config
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\bin\Debug\School Management Systems.exe
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\bin\Debug\School Management Systems.pdb
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School Management Systems.csproj.AssemblyReference.cache
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.Form1.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.LoginForm.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.Properties.Resources.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School Management Systems.csproj.GenerateResource.cache
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School Management Systems.csproj.CoreCompileInputs.cache
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School Management Systems.exe
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School Management Systems.pdb
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.MainForm.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.AddStudentForm.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.AddStudentsForm.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.AddTeachersForm.resources
+C:\Users\Mubaseer\source\repos\School Management Systems\School Management Systems\obj\Debug\School_Management_Systems.DashboardForm.resources
